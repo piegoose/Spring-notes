@@ -13,10 +13,3 @@ Repozytorium zawiera notatki z technologii Spring Framework i Spring Boot.
 - REST API
 - Microservices
 
-## Dla kogo?
-
-Notatki są przygotowane pod:
-- Junior Java Developer
-- Java Backend Developer
-- Rozmowy rekrutacyjne
-- Codzienną pracę ze Spring Boot
