@@ -1,5 +1,21 @@
 # Microservices
 
+## Definition of a Microservice
+
+A microservice is a small, autonomous service that works together with other services to form a complete application.
+
+Key characteristics:
+
+- independently deployable,
+- independently scalable,
+- focused on a single business capability,
+- owns its own data and logic,
+- communicates with other services through well-defined interfaces.
+
+In practice, a microservice should be responsible for one specific business domain and should be developed, deployed, and maintained independently of other services.
+
+---
+
 ## Czym są mikroserwisy?
 
 Mikroserwisy to styl architektury, w którym aplikacja jest podzielona na wiele małych, niezależnych usług.
